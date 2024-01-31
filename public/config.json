@@ -1,0 +1,18 @@
+{
+  "network": "mainnet",
+  "protocol": "https",
+  "backendPort": "",
+  "apiUrl": "api.rtfkt.com",
+  "authPort": "",
+  "cdnUrl": "https://cdn.rtfkt.com/assets",
+  "walletConnectProjectId": "aaf0a53df516c2d85727e264db8586c3",
+  "wmUrl": "https://wm.rtfkt.com",
+  "genericStyles": {
+     "0x8f685978e5ab8b63e618694917e8ff93a7eb54e3": "RIMOWA Generic"
+  },
+  "eventContracts" : {
+    "cloneX": "0x49cf6f5d44e70224e2e23fdcdd2c053f30ada28b",
+    "egg": "0x6c410cF0B8c113Dc6A7641b431390B11d5515082"
+  },
+  "decimals": 3
+}
